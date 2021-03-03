@@ -1,1 +1,2 @@
-# Project-27-NEWTON-S-CRADLE
+# Project 27
+- Krish Garg
